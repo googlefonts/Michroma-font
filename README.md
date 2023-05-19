@@ -18,4 +18,4 @@ Michroma has character widths and stem weights perfectly formed to fit today's d
 
 Licensed under the [SIL Open Font License, 1.1](http://scripts.sil.org/OFL); you may only use these files in compliance with the License.
 
-To contribute to the project, file an issue at https://github.com/googlefonts/monofett
+To contribute to the project, file an issue at https://github.com/googlefonts/Michroma-font
